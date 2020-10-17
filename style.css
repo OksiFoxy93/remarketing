@@ -13,6 +13,7 @@ header {
   background-image: url("images/clean.gif");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 0 45px;
   padding-top: 0; }
   .main_banner h1 {
     font-size: 79px; }
