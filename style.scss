@@ -16,8 +16,17 @@ header {
 .main_banner {
   background-color: black;
   height: 100vh;
-  background-image: url("../images/anim");
+  background-image: url("images/clean.gif");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0 45px;
+  padding-top: 0;
+  h1 {
+    font-size: 79px;
+  }
+  h2 {
+    font-size: 35px;
+  }
+  .btn {
+    border-radius: 0;
+  }
 }

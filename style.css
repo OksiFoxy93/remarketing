@@ -10,9 +10,15 @@ header {
 .main_banner {
   background-color: black;
   height: 100vh;
-  background-image: url("../images/anim");
+  background-image: url("images/clean.gif");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0 45px; }
+  padding-top: 0; }
+  .main_banner h1 {
+    font-size: 79px; }
+  .main_banner h2 {
+    font-size: 35px; }
+  .main_banner .btn {
+    border-radius: 0; }
 
 /*# sourceMappingURL=style.css.map */
