@@ -1,0 +1,23 @@
+header {
+  background-color: black;
+  .nav-item {
+    a {
+      font-size: 18px;
+      &:hover {
+        text-decoration: line-through;
+      }
+    }
+    .active {
+      text-decoration: line-through;
+    }
+  }
+}
+
+.main_banner {
+  background-color: black;
+  height: 100vh;
+  background-image: url("../images/anim");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 45px;
+}
